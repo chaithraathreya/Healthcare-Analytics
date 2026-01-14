@@ -17,8 +17,7 @@ The project uses **SQL, Excel, Power BI, and Tableau** to transform raw healthca
 ---
 
 ## 📊 Key KPIs Analyzed
-- 🧑‍⚕️ Patient Count & Visit Trends  
-- ⏱️ Length of Stay (LOS)  
+- 🧑‍⚕️ Patient Count & Visit Trends    
 - 🏥 Department-wise Patient Distribution  
 - 📅 Admission & Discharge Patterns  
 - 📈 Operational Performance Metrics  
@@ -36,11 +35,11 @@ The project uses **SQL, Excel, Power BI, and Tableau** to transform raw healthca
 
 ## 🔍 Key Insights
 -🧑‍⚕️ Served 10,000 patients with 1,000 doctors, maintaining an optimal doctor load of 10
-💰 Generated ₹31M total revenue with ₹2,540 average billing per patient
-🩺 Migraine, Hypertension, and Asthma are the most common diagnosed conditions
-🧪 Lab results are evenly split across Normal, Abnormal, and Pending (~33% each)
-📞 Nearly 50% of patient visits require follow-up, indicating high continuity-of-care needs
-🏥 Vaccination and Surgery are the highest revenue-generating treatment types
+-💰 Generated ₹31M total revenue with ₹2,540 average billing per patient
+-🩺 Migraine, Hypertension, and Asthma are the most common diagnosed conditions
+-🧪 Lab results are evenly split across Normal, Abnormal, and Pending (~33% each)
+-📞 Nearly 50% of patient visits require follow-up, indicating high continuity-of-care needs
+-🏥 Vaccination and Surgery are the highest revenue-generating treatment types
 
 ---
 

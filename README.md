@@ -34,7 +34,7 @@ The project uses **SQL, Excel, Power BI, and Tableau** to transform raw healthca
 ---
 
 ## 🔍 Key Insights
--Served **10,000 patients** with **1,000 doctors**, maintaining an optimal doctor load of **10**
+- Served **10,000 patients** with **1,000 doctors**, maintaining an optimal doctor load of **10**
 - Generated **₹31M total revenue** with an **average billing of ₹2,540 per patient**
 - **Migraine, Hypertension, and Asthma** are the most commonly diagnosed conditions
 - Lab results are evenly distributed across **Normal, Abnormal, and Pending** categories
